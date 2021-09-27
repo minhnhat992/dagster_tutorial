@@ -3,4 +3,4 @@ load_from:
   - grpc_server:
       host: docker_example_pipelines
       port: 4000
-      location_name: "example_pipelines"
+      location_name: "test_pipe"
